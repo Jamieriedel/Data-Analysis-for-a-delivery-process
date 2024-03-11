@@ -1,6 +1,6 @@
 # Data-Analysis-for-a-delivery-process
 
-In this project we've been asked to analyze the four given datasets of a company. 
+In this project we've been asked to analyze four given datasets of a company. 
 
 First we were illustrating the companies delivery process and added the information we've been given and the datapoints.
 
